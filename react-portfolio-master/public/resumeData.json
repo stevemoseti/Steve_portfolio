@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Stephen Matara",
+    "occupation": "student at Africa Nazarene University,software developer.",
+    "description": "Intermidiate in ReactJs and Nodejs  ",
+    "image": "stephen.jpg",
+    "bio": "My name is Stephen, I'm a learning ReactJS Development. Currently I'm studying at Africa Nazarene University ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "stephenmoseti@gmail.com",
+    "phone": "+254743470256",
+    "address": {
+      "street": "4200 kisii",
+      "city": "Nairobi",
+      "state": "Kenya",
+      "zip": "00200"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://m.facebook.com/stephen.moseti.52",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/mwlite/in/stephen-matara-ab7652188",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/stevemoseti",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Have been exploring different programming languages to best find the best that suites me.I have done though a little in scripting languages such as java also have skills in PHP,HTML,SQL, and python.",
+    "education": [
+      {
+        "school": "Africa Nazarene University",
+        "degree": "Bachalors in Computer Science",
+        "graduating": "October 2022",
+        "description": "software developer"
+      }
+    ],
+    "work": [
+      {
+        "company": "Not yet employed",
+        "title": "Agressive Student",
+        "years": "April 2018 - Present",
+        "description": "Learning ReactJS and NodeJs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "40"
+      },
+      {
+        "name": "java",
+        "level": "75%%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "php",
+        "level": "60%"
+      },
+      {
+        "name": "sql",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Train Booking system",
+        "category": " Railway transportation system build with(java and sql)",
+        "image": "transport.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "No Human is limited.",
+        "user": "Kipchoge Keino "
+      },
+      {
+        "text": "Stephen Matara must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Obed Ngoge... impersonator"
+      }
+    ]
+  }
+}
